@@ -1,8 +1,8 @@
 {
     "snapshot": "1.9-SNAPSHOT",
-    "milestone": "1.8.RC1",
-    "stable": "1.7.2",
-    "old_stable": "1.6.3",
-    "older_stable": "1.5.3"
+    "milestone": "1.8",
+    "stable": "1.8",
+    "old_stable": "1.7.2",
+    "older_stable": "1.6.3"
 
 }
