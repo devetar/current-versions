@@ -1,6 +1,6 @@
 {
     "snapshot": "1.9-SNAPSHOT",
-    "milestone": "1.8",
+    "milestone": "1.9.M01",
     "stable": "1.8",
     "old_stable": "1.7.2",
     "older_stable": "1.6.3"
