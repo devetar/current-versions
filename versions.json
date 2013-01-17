@@ -1,8 +1,13 @@
 {
     "snapshot": "1.9-SNAPSHOT",
     "milestone": "1.9.M03",
+    "milestone_date" : "Dec 21, 2012",
     "stable": "1.8.1",
+    "stable_date" : "Dec 14, 2012",
     "old_stable": "1.7.2",
-    "older_stable": "1.6.3"
-
+    "old_stable_date" : "May 28, 2012",
+    "older_stable": "1.6.3",
+    "older_stable_date" : "May 28, 2012",
+    "oldest_stable": "1.5.3",
+    "oldest_stable_date" : "May 24, 2012"
 }
