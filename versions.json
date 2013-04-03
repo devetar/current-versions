@@ -1,13 +1,14 @@
 {
-    "snapshot": "1.9-SNAPSHOT",
-    "milestone": "1.9.M05",
-    "milestone_date" : "Mar 06, 2013",
     "stable": "1.8.2",
-    "stable_date" : "Feb 27, 2013",
+    "stable_date": "Feb 27, 2013",
+    "milestone": "1.9.M05",
+    "milestone_date": "Mar 06, 2013",
+    "preview": "2.0.0-M01",
+    "preview_date": "Apr 03, 2013",
     "old_stable": "1.7.2",
-    "old_stable_date" : "May 28, 2012",
+    "old_stable_date": "May 28, 2012",
     "older_stable": "1.6.3",
-    "older_stable_date" : "May 28, 2012",
+    "older_stable_date": "May 28, 2012",
     "oldest_stable": "1.5.3",
-    "oldest_stable_date" : "May 24, 2012"
+    "oldest_stable_date": "May 24, 2012"
 }
