@@ -1,9 +1,9 @@
 {
     "snapshot": "2.0-SNAPSHOT",
-    "stable": "2.0.0",
-    "stable_date": "December 10, 2013",
-    "milestone": "2.0.0",
-    "milestone_date": "December 10, 2013",
+    "stable": "2.0.1",
+    "stable_date": "February 3, 2014",
+    "milestone": "2.0.1",
+    "milestone_date": "February 3, 2014",
     "old_stable": "1.9.6",
     "old_stable_date": "January 31, 2014",
     "older_stable": "1.8.3",
